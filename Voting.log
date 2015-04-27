@@ -1,0 +1,347 @@
+commit 560318357d839675412ce8c00d579b87f89b746e
+Merge: 245b3f6 4bf41bb
+Author: michaeldchin <push.default>
+Date:   Thu Sep 25 20:24:57 2014 -0500
+
+    Merge branch 'master' of https://github.com/michaeldchin/cs371p-voting
+
+commit 245b3f6a8d5634d0f85cb464b93c2c0fe81e0f03
+Author: michaeldchin <push.default>
+Date:   Thu Sep 25 20:24:42 2014 -0500
+
+    adding html folder/doxygen documentation
+
+commit 4bf41bb0fab4a257e8c7b0650b987b5f8e4d98ab
+Author: michaeldchin <mchin461@gmail.com>
+Date:   Thu Sep 25 20:06:08 2014 -0500
+
+    Update README.md
+
+commit 5bc1d079e26a0cc48376dea67ecd11f002324a3e
+Author: michaeldchin <push.default>
+Date:   Thu Sep 25 20:04:55 2014 -0500
+
+    added TestVoting output file
+
+commit 23cb608dd8f9c0879fc281436892673084c365f6
+Author: michaeldchin <push.default>
+Date:   Thu Sep 25 19:55:29 2014 -0500
+
+    updated testvoting, added eval tests
+
+commit 0e622c518a8722e4901f0ef82f23f2ede845629d
+Author: Da Meng <dameng@utexas.edu>
+Date:   Thu Sep 25 19:08:29 2014 -0500
+
+    Update makefile
+
+commit 0d0680c384019b9485513359f331de3aab9ab400
+Author: Da Meng <dameng@utexas.edu>
+Date:   Thu Sep 25 19:07:44 2014 -0500
+
+    Delete UVaVoting2.c++
+
+commit ddf94197345eedf65c258ef710ae6d6ff41dd56b
+Author: michaeldchin <push.default>
+Date:   Thu Sep 25 19:05:38 2014 -0500
+
+    updated testvoting
+
+commit 5c0dcdf1850df03d006e34563fee3615bab773ca
+Merge: 1ecb0cf f6a3f1d
+Author: michaeldchin <push.default>
+Date:   Thu Sep 25 19:04:04 2014 -0500
+
+    Merge branch 'master' of https://github.com/michaeldchin/cs371p-voting
+
+commit f6a3f1d33101b8af72c76a81c8f3ba4022934867
+Author: Da Meng <dameng@utexas.edu>
+Date:   Thu Sep 25 19:03:52 2014 -0500
+
+    Update README.md
+
+commit 1ecb0cf651d85debf1ad455a61ecf9e049cceb56
+Merge: 89dbf3c 9c5123e
+Author: michaeldchin <push.default>
+Date:   Thu Sep 25 19:03:49 2014 -0500
+
+    Merge branch 'master' of https://github.com/michaeldchin/cs371p-voting
+
+commit 89dbf3c05d105fec40168aaad976e5423b5b34d0
+Author: michaeldchin <push.default>
+Date:   Thu Sep 25 19:03:35 2014 -0500
+
+    completed testvoting
+
+commit 9c5123e02962f05fea323bd967402e5ed8db3fc2
+Author: Da Meng <dameng@utexas.edu>
+Date:   Thu Sep 25 19:02:01 2014 -0500
+
+    Create README.md
+
+commit 34d6c43e7617ab95aad31a3276cbb360316d09ae
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Thu Sep 25 18:26:25 2014 -0500
+
+    fixes input file
+
+commit fbe2e0d046505c18dc8bc99bd99981dc676c3a7e
+Merge: 42fc97e 45eac6f
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Thu Sep 25 18:21:10 2014 -0500
+
+    Merge branch 'master' of https://github.com/michaeldchin/cs371p-voting
+    
+    Conflicts:
+    	RunVoting.in
+    	Voting.c++
+
+commit 42fc97ea37e60e9872e1b2f4715419c31e0ccdb3
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Thu Sep 25 18:17:31 2014 -0500
+
+    Added comment
+
+commit 45eac6fd62656f1bbfeb28fc50b5f85ffecb8171
+Author: michaeldchin <push.default>
+Date:   Thu Sep 25 17:50:24 2014 -0500
+
+    Figured out test bug, sublime formats text incorrectly, fixes #13
+
+commit 2eeb3c484a081be06b6dbfd2c564f664d12efa0c
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Thu Sep 25 17:23:41 2014 -0500
+
+    add separate program files
+
+commit 07cd95fa32f1c8a7de15f2bf46f278e6914e60ea
+Merge: 8b8d06e 664482e
+Author: Da Meng <dameng@utexas.edu>
+Date:   Thu Sep 25 00:53:03 2014 -0500
+
+    Merge branch 'master' of https://github.com/michaeldchin/cs371p-voting
+
+commit 8b8d06e7767b5e5feb4e318988447391ffe9624c
+Author: Da Meng <dameng@utexas.edu>
+Date:   Thu Sep 25 00:52:29 2014 -0500
+
+    Second commit for accepted UVA
+
+commit 664482e77a5c3e474a6463dc77a142d23a33b370
+Author: Da Meng <dameng@utexas.edu>
+Date:   Thu Sep 25 00:22:54 2014 -0500
+
+    Delete UVaVoting_c.c++
+
+commit 22610104d99f7cc643fe7916594af4a5f864aa22
+Author: Da Meng <dameng@utexas.edu>
+Date:   Thu Sep 25 00:20:13 2014 -0500
+
+    First edition of UVaVoting accepted
+
+commit a826f4be7aca0f0baa94ee7c33f852dc9b3015f6
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Wed Sep 24 18:54:27 2014 -0500
+
+    new idea modify second
+
+commit f72469cd2de9b0b376e13c463b2d06e6f4f6be1f
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Wed Sep 24 18:44:32 2014 -0500
+
+    new idea modify
+
+commit c275840d1a602efb8b4133d89cd73dce20ef4f07
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Wed Sep 24 18:37:26 2014 -0500
+
+    new idea
+
+commit 88c4b5f953e6dddd5cac78a7e53fe1901bcac2c5
+Author: michaeldchin <push.default>
+Date:   Tue Sep 23 20:17:34 2014 -0500
+
+    test version of UVa
+
+commit 0813c5fac7dd99bdf7ced2dc12d39e6519511408
+Author: michaeldchin <push.default>
+Date:   Tue Sep 23 19:17:00 2014 -0500
+
+    adding updated test file
+
+commit 94c146edb55ae638195a613adf262e9f9650b53f
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Tue Sep 23 19:10:44 2014 -0500
+
+    Fixes eliminated bug
+
+commit 22e1a4b1370a4aa9d577d24e142c20a1febd63f7
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Tue Sep 23 18:08:59 2014 -0500
+
+    Fixes #1 Fixes #4 Fixes #5
+
+commit 4993da8d3edb0cd64f59c0f75d9f40a40945ba1f
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Fri Sep 19 18:44:38 2014 -0500
+
+    kind of works
+
+commit 1b8ab1f3fc65a6dc5ebedfbd7f5442776a97f61d
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Fri Sep 19 18:23:24 2014 -0500
+
+    Origin implementation
+
+commit 7faa864930e2ee4b44b860cffec12e95e93ec243
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Fri Sep 19 18:03:29 2014 -0500
+
+    remove nouse file
+
+commit eb595ecdb0c227da146ce42a6a5578a8c79493e3
+Merge: 324a44e 096b2fb
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Fri Sep 19 17:58:55 2014 -0500
+
+    Merge branch 'master' of https://github.com/michaeldchin/cs371p-voting
+
+commit 096b2fb0d7a9a095bdf1b7d6eadb93ec07fba381
+Author: michaeldchin <push.default>
+Date:   Fri Sep 19 17:58:36 2014 -0500
+
+    changed voting input, fixes #23
+
+commit 324a44ea773a88e7e6f94f57eb3932797857fa29
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Fri Sep 19 17:52:59 2014 -0500
+
+    Added voting_eval function
+
+commit 09d9ae102c6d144aa55710e8f8de20fcd7349fc8
+Merge: 7b1a2ba d2117bc
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Fri Sep 19 16:53:40 2014 -0500
+
+    Merge branch 'master' of https://github.com/michaeldchin/cs371p-voting
+
+commit 7b1a2bac6b3691924aab46d25382dde1344d77ee
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Fri Sep 19 16:48:14 2014 -0500
+
+    Get majority finished
+
+commit d2117bc7cfa9cd27f2061d87b803ee47bcad0135
+Merge: 504079a e5cac33
+Author: michaeldchin <push.default>
+Date:   Fri Sep 19 15:48:13 2014 -0500
+
+    Merge branch 'master' of https://github.com/michaeldchin/cs371p-voting
+
+commit 504079aafdcc8c29c24709b9a40dc7c20f8c0835
+Author: michaeldchin <push.default>
+Date:   Fri Sep 19 15:47:57 2014 -0500
+
+    updated candidate class
+
+commit e5cac33b669708034559996d428c40339dff27a9
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Fri Sep 19 15:47:34 2014 -0500
+
+    Read all data implementation
+
+commit 4de6892f2f3dca8273c33e6d22c051384be8bb5a
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Fri Sep 19 15:05:49 2014 -0500
+
+    UVaVoting.c++ first commit
+
+commit adf8ad0f94e9a0f9e81c1908ba96ce158f7d50e0
+Author: michaeldchin <push.default>
+Date:   Fri Sep 19 14:28:25 2014 -0500
+
+    working on list of candidate objects
+
+commit e55d3d229a0f17345460c3f34900bc2a752aee10
+Author: michaeldchin <push.default>
+Date:   Fri Sep 19 14:04:33 2014 -0500
+
+    Added skeletal classes for Candidate and Votes
+
+commit 7176e66d7839dd5130bc68803e0c7f3a0a86d1ec
+Author: michaeldchin <push.default>
+Date:   Fri Sep 19 13:28:32 2014 -0500
+
+    added some comments2
+
+commit 06afb51ada401fefd9f2ab4ab1b1986f51f38c41
+Author: michaeldchin <push.default>
+Date:   Fri Sep 19 13:27:50 2014 -0500
+
+    added some comments
+
+commit eaee63e7eeb43b1c4921d3df2a238a17e8621973
+Author: michaeldchin <push.default>
+Date:   Fri Sep 19 13:24:47 2014 -0500
+
+    Cleaned code, replaced while loops with for loops
+
+commit e8da305e5e4729e964991e3c550615392c491661
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Fri Sep 19 12:39:04 2014 -0500
+
+    fix read name bug Fixes #21
+
+commit 46a1add04991fa3e93f8b3516eb31d414a72988a
+Author: Da Meng <dameng@utexas.edu>
+Date:   Fri Sep 19 12:16:17 2014 -0500
+
+    Read file Fixes #20
+
+commit 9476aac0b721602ab1deef2f96d0e36ad2813d11
+Author: Da Meng <dameng@utexas.edu>
+Date:   Fri Sep 19 11:59:06 2014 -0500
+
+    remove useless file
+
+commit 31e0f6c0346450927d85c9800a511e973bd3e809
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Thu Sep 18 19:01:06 2014 -0500
+
+    read file in main
+
+commit 8fe27fec20407a6475113e20eff3259d116a1138
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Thu Sep 18 19:00:03 2014 -0500
+
+    read file in main
+
+commit bd4f98df4475aa452b39737e4c0a85c67413aa1a
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Thu Sep 18 18:17:52 2014 -0500
+
+    implementing voting_read
+
+commit b00c4daaf734b5fb563cc4994051f7183e029cb4
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Thu Sep 18 18:00:36 2014 -0500
+
+    Modify voting.h voting.c++
+
+commit ff2baf4700f3120240e38c53309def157fdbcd7d
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Thu Sep 18 17:53:00 2014 -0500
+
+    Modify runvoting
+
+commit 94b68aecf0b9e38e60a6cb5bda32afb31ff47a90
+Author: michaeldchin <push.default>
+Date:   Thu Sep 18 17:49:09 2014 -0500
+
+    Adding all the empty files
+
+commit c26db0a0bbdf4f482df4cbda6011d68972005500
+Author: Da Meng <dameng@cs.utexas.edu>
+Date:   Thu Sep 18 17:28:24 2014 -0500
+
+    origin files
